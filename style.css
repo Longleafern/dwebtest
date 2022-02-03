@@ -1,0 +1,49 @@
+* {
+    background: black;
+    color: white;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+div {
+    font-size: 24px;
+    border: solid 2px black;
+    padding: 5px;
+    margin: 20px;
+    color: white;
+}
+
+ .tri {
+    display: inline-block;
+    color: white;
+    margin-top: 15px;
+    width: 500px;
+    margin-left: 200px;
+    padding: 5px;
+}
+
+
+ul {
+    display: inline-flex;
+    padding: 5px;
+    margin: 2em;
+}
+
+.button {
+    font-size: 50px;
+    background: yellow;
+
+}
+
+.one {
+    background: red;
+}
+
+span, 
+li {
+    border: 2px red;
+    display: inline-block;
+}
